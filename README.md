@@ -6,4 +6,12 @@
 
 ```shell
 $ npm install
+
+$ npm install json-server -g
+
+# 启动json-server
+$ json-server data.json --port 8888
+
+# 启动项目
+$ npm start
 ```
